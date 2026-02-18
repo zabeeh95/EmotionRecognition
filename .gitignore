@@ -14,7 +14,6 @@ venv/
 # Datasets
 # -------------------------
 data/
-model/
 dataset/
 datasets/
 output/
@@ -22,7 +21,7 @@ input/
 extras/
 *.csv
 *.zip
-.txt
+venv.txt
 
 
 # -------------------------
