@@ -1,0 +1,63 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# -------------------------
+# Datasets
+# -------------------------
+data/
+model/
+dataset/
+datasets/
+output/
+input/
+extras/
+*.csv
+*.zip
+.txt
+
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# TensorFlow / Keras
+# -------------------------
+*.h5
+*.keras
+logs/
+checkpoints/
+
+
+# -------------------------
+# OpenCV / Images
+# -------------------------
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+
+# -------------------------
+# IDEs
+# -------------------------
+.vscode/
+.idea/
+*.swp
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
